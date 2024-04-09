@@ -40,6 +40,7 @@ jobs:
           cspell:software-terms/dict/softwareTerms.txt
           cspell:html/dict/html.txt
           cspell:css/dict/css.txt
+          cspell:filetypes/filetypes.txt
           https://raw.githubusercontent.com/Tinyblargon/Tinyblargon/dictionary/organizations.txt
           https://raw.githubusercontent.com/Tinyblargon/Tinyblargon/dictionary/technologies.txt
           https://raw.githubusercontent.com/Tinyblargon/Tinyblargon/dictionary/username.txt
