@@ -38,4 +38,6 @@ jobs:
         extra_dictionary_limit: 20
         extra_dictionaries:
           cspell:software-terms/dict/softwareTerms.txt
+          https://raw.githubusercontent.com/Tinyblargon/Tinyblargon/dictionary/organizations.txt
+          https://raw.githubusercontent.com/Tinyblargon/Tinyblargon/dictionary/technologies.txt
           https://raw.githubusercontent.com/Tinyblargon/Tinyblargon/dictionary/username.txt
