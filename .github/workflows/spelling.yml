@@ -37,8 +37,8 @@ jobs:
         warnings: bad-regex,binary-file,deprecated-feature,large-file,limited-references,no-newline-at-eof,noisy-file,non-alpha-in-dictionary,token-is-substring,unexpected-line-ending,whitespace-in-dictionary,minified-file,unsupported-configuration,no-files-to-check
         extra_dictionary_limit: 20
         extra_dictionaries:
-          cspell:html/dict/html.txt
           cspell:software-terms/dict/softwareTerms.txt
+          cspell:html/dict/html.txt
           https://raw.githubusercontent.com/Tinyblargon/Tinyblargon/dictionary/organizations.txt
           https://raw.githubusercontent.com/Tinyblargon/Tinyblargon/dictionary/technologies.txt
           https://raw.githubusercontent.com/Tinyblargon/Tinyblargon/dictionary/username.txt
