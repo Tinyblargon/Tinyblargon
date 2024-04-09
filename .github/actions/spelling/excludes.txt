@@ -1,2 +1,2 @@
 ^LICENSE$
-^\.github/actions/spelling
+^\.github/actions/spelling.*$
