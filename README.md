@@ -14,6 +14,7 @@ Furthermore I'm working on various Ansible roles like:
 ## Some Technologies I'm proficient with:
 
 <!-- sadly there is no way to limit the size with markdown -->
+<div>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/docker-moby.svg" alt="Docker" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/proxmox.svg" alt="Proxmox Virtual Environment" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/go.svg" alt="GO" width="45" height="45"/>
@@ -41,3 +42,4 @@ Furthermore I'm working on various Ansible roles like:
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/gitea.svg" alt="Gitea" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/git.svg" alt="Git" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/vscode.svg" alt="vsCode" width="45" height="45"/>
+<div/>
