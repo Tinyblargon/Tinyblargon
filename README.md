@@ -2,17 +2,17 @@
 
 Hi I'm Okean, Im a DevOps engineer with a passion for automation, monitoring, and security. I'm always looking for new challenges and opportunities to learn new things.
 
-## Projects I'm currently working on:
+## Projects I'm currently working on
 
 Currently I'm mostly working on the [Proxmox GO SDK](https://github.com/Telmate/proxmox-api-go) and the [Proxmox Terraform Provider](https://github.com/Telmate/terraform-provider-proxmox).
 
 Furthermore I'm working on various Ansible roles like:
+
 - [Tinyblargon.docker_deploy](https://github.com/Tinyblargon/ansible-role-docker-deploy)
 - [Tinyblargon.nginx](https://github.com/Tinyblargon/ansible-role-nginx)
 - [Tinyblargon.certbot](https://github.com/Tinyblargon/ansible-role-certbot)
 
-
-## Some Technologies I'm proficient with:
+## Technologies I'm proficient with
 
 <!-- sadly there is no way to limit the size with markdown -->
 <div>
