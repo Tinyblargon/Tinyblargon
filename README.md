@@ -35,7 +35,7 @@ Furthermore I'm working on various Ansible roles like:
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/truenas.svg" alt="TrueNAS" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/postgres.svg" alt="Postgres" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/influxdb.svg" alt="InfluxDB" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/debian.svg" alt="Debian" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/debian-linux.svg" alt="Debian" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/Tinyblargon/dashboard-icons/alpine/svg/alpine.svg" alt="Alpine" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/tux.svg" alt="Linux" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/windows-10.svg" alt="Windows 10" width="45" height="45"/>
