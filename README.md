@@ -8,9 +8,11 @@ Currently I'm mostly working on the [Proxmox GO SDK](https://github.com/Telmate/
 
 Furthermore I'm working on various Ansible roles like:
 
-- [Tinyblargon.docker_deploy](https://github.com/Tinyblargon/ansible-role-docker-deploy)
-- [Tinyblargon.nginx](https://github.com/Tinyblargon/ansible-role-nginx)
-- [Tinyblargon.certbot](https://github.com/Tinyblargon/ansible-role-certbot)
+- [tinyblargon.docker_deploy](https://github.com/Tinyblargon/ansible-role-docker-deploy)
+- [tinyblargon.nginx](https://github.com/Tinyblargon/ansible-role-nginx)
+- [tinyblargon.certbot](https://github.com/Tinyblargon/ansible-role-certbot)
+
+The full list can be found [here](ansible.md).
 
 ## Technologies I'm proficient with
 
